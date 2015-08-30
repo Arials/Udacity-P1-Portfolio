@@ -18,11 +18,11 @@
 	flex-wrap: wrap;
 }
 
-.img_main {
+.img-main {
 	width: 100%;
 }
 
-.img_work {
+.img-work {
 	width: 100%;
 }
 
@@ -71,7 +71,7 @@ h1 {
 h3 {
 	text-align: center;
 	font-size: 25px;
-	margin: 5px auto 5px auto
+	margin: 5px auto 5px auto;
 }
 
 .status {
